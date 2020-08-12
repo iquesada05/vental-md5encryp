@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eWMS_DI", "eWMS_DI\eWMS_DI.csproj", "{05B29E9F-423C-45ED-848C-43EA8DB179F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eflowDI_service", "eflowDI_service\eflowDI_service.csproj", "{197A7EA3-97F3-4ECC-97E8-E5115282FBA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eflowDIApi_Launch", "eflowDIApi_Launch\eflowDIApi_Launch.csproj", "{B21D439C-F681-465D-A1A9-A2D5DF83D983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05B29E9F-423C-45ED-848C-43EA8DB179F1}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{05B29E9F-423C-45ED-848C-43EA8DB179F1}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{05B29E9F-423C-45ED-848C-43EA8DB179F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B29E9F-423C-45ED-848C-43EA8DB179F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B29E9F-423C-45ED-848C-43EA8DB179F1}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B29E9F-423C-45ED-848C-43EA8DB179F1}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{05B29E9F-423C-45ED-848C-43EA8DB179F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B29E9F-423C-45ED-848C-43EA8DB179F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B29E9F-423C-45ED-848C-43EA8DB179F1}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{05B29E9F-423C-45ED-848C-43EA8DB179F1}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{197A7EA3-97F3-4ECC-97E8-E5115282FBA8}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{197A7EA3-97F3-4ECC-97E8-E5115282FBA8}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{197A7EA3-97F3-4ECC-97E8-E5115282FBA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197A7EA3-97F3-4ECC-97E8-E5115282FBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197A7EA3-97F3-4ECC-97E8-E5115282FBA8}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{197A7EA3-97F3-4ECC-97E8-E5115282FBA8}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{197A7EA3-97F3-4ECC-97E8-E5115282FBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197A7EA3-97F3-4ECC-97E8-E5115282FBA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{197A7EA3-97F3-4ECC-97E8-E5115282FBA8}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{197A7EA3-97F3-4ECC-97E8-E5115282FBA8}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{B21D439C-F681-465D-A1A9-A2D5DF83D983}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{B21D439C-F681-465D-A1A9-A2D5DF83D983}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{B21D439C-F681-465D-A1A9-A2D5DF83D983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21D439C-F681-465D-A1A9-A2D5DF83D983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21D439C-F681-465D-A1A9-A2D5DF83D983}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21D439C-F681-465D-A1A9-A2D5DF83D983}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{B21D439C-F681-465D-A1A9-A2D5DF83D983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21D439C-F681-465D-A1A9-A2D5DF83D983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B21D439C-F681-465D-A1A9-A2D5DF83D983}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{B21D439C-F681-465D-A1A9-A2D5DF83D983}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59F5F897-B142-469E-98AC-05C11198984F}
+	EndGlobalSection
+EndGlobal
